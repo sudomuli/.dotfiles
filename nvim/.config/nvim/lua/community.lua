@@ -24,5 +24,8 @@ return {
   { import = "astrocommunity.pack.toml" },
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.html-css" },
+
+  { import = "astrocommunity.terminal-integration.vim-tmux-yank" },
+  { import = "astrocommunity.editing-support.yanky-nvim" },
   -- import/override with your plugins folder
 }

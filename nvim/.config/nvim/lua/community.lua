@@ -10,6 +10,8 @@ return {
   { import = "astrocommunity.comment.ts-comments-nvim" },
   { import = "astrocommunity.motion.flash-nvim" },
   { import = "astrocommunity.motion.nvim-surround" },
+  { import = "astrocommunity.motion.harpoon" },
+
   -- Languages
   { import = "astrocommunity.pack.svelte" },
   { import = "astrocommunity.pack.vue" },
@@ -18,12 +20,16 @@ return {
   { import = "astrocommunity.pack.sql" },
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.go" },
+  { import = "astrocommunity.pack.php" },
   { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.pack.eslint" },
   { import = "astrocommunity.pack.prettier" },
   { import = "astrocommunity.pack.toml" },
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.html-css" },
+  { import = "astrocommunity.pack.typescript" },
+
+  { import = "astrocommunity.file-explorer.oil-nvim" },
 
   { import = "astrocommunity.terminal-integration.vim-tmux-yank" },
   { import = "astrocommunity.editing-support.yanky-nvim" },

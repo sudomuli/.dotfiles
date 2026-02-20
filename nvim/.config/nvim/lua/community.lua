@@ -23,7 +23,6 @@ return {
   { import = "astrocommunity.pack.php" },
   { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.pack.eslint" },
-  { import = "astrocommunity.pack.prettier" },
   { import = "astrocommunity.pack.toml" },
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.html-css" },

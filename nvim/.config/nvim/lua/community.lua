@@ -28,6 +28,7 @@ return {
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.html-css" },
   { import = "astrocommunity.pack.typescript" },
+  { import = "astrocommunity.pack.rust" },
 
   { import = "astrocommunity.file-explorer.oil-nvim" },
 
